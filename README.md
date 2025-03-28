@@ -21,7 +21,7 @@ This **Power BI report** provides comprehensive insights into sales performance,
 - **Geographic Analysis**: Visualize total orders by country and continent.
 
 - ## Product Overview: Mountain Bike
-![Mountain Bike](images/mountain-bike.png)
+![Mountain Bike](images/mountain_bike.jpg)
 
 The dataset used in this Power BI report focuses on sales and trends related to **mountain bikes**. It provides insights into:
 - 🚴 **Best-selling bike models**
